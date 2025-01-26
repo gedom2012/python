@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4701457-1b4e-4a55-881d-4c136c0f658e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/PythonProject/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/lecture-one/Booleans.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/lecture-one/Lists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/lecture-one/Statements.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/lecture-one/lecture-one.py" beforeDir="false" />
+    <list default="true" id="e4701457-1b4e-4a55-881d-4c136c0f658e" name="Changes" comment="statements">
+      <change beforePath="$PROJECT_DIR$/PythonProject/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +47,7 @@
       <recent name="$PROJECT_DIR$/PythonProject" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/PythonProject" />
     </key>
   </component>
@@ -70,6 +67,19 @@
       <option name="presentableId" value="Default" />
       <updated>1737908289917</updated>
     </task>
+    <task id="LOCAL-00001" summary="statements">
+      <option name="closed" value="true" />
+      <created>1737909333466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737909333466</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="statements" />
   </component>
 </project>
